@@ -43,9 +43,9 @@ chmod +x install.sh
 ```
 <h1>IMPORTANT!!!</h1>
 
-The installer fully supports only hyprland for now. The scripts get installed in the ```$home/.config/rofi/scripts``` folder and you need to assign the keybinds for the script manually.<br>
+The installer fully supports hyprland/sway/i3 for now. The scripts get installed in the ```$home/.config/rofi/scripts``` folder and you need to assign the keybinds for the script manually while using other WM or a DE.<br>
 
 Planned Adittions:<br>
-> - Multi WM and DE support out of the box.<br>
+> - bspwm and compatibility mode instalation.<br>
 > - Selecting Keyboard shortcut during installation.<br>
 > - All known bugs stated in root repositories.<br>
